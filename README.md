@@ -1,7 +1,7 @@
 /*
  * Created by Pedro Merencio Primo Passos
  *
- * This source code file contains the implementation to
+ * This project contains the implementation to
  * a method that replaces all the spaces with "&32"
  * in a array of characters.
  *
